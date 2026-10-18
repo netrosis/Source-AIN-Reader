@@ -1,6 +1,5 @@
 #pragma once
 
-#include <cfenv>
 #include <stdio.h>
 
 #define NUM_HULLS 10	//Valve Developer Wiki states this is almost always 10.
